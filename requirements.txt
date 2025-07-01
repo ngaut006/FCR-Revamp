@@ -1,0 +1,30 @@
+# Core Data Processing and ML Libraries
+pandas==2.1.4
+numpy==1.26.2
+scikit-learn==1.3.2
+xgboost==2.0.2
+
+# NLP and Text Processing
+nltk==3.8.1
+transformers==4.36.2
+torch==2.1.2
+spacy==3.7.2
+
+# Data Visualization and Analysis
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
+shap==0.44.0
+
+# Dashboard and API
+streamlit==1.29.0
+flask==3.0.0
+flask-cors==4.0.0
+
+# Data Generation and Utilities
+faker==21.0.0
+python-dotenv==1.0.0
+
+# Feature Engineering
+category_encoders==2.6.3
+feature_engine==1.6.2 
